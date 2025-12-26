@@ -48,8 +48,14 @@
 ## Output:
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 182155" src="https://github.com/user-attachments/assets/d45f9a3d-962e-40bc-aad5-765746469ae5" />
+<img width="440" height="617" alt="Screenshot 2025-12-26 164343" src="https://github.com/user-attachments/assets/5f6534f8-508e-4cf1-aa84-0a20fe526b10" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 182209" src="https://github.com/user-attachments/assets/f9a28f0d-4cde-48de-ba4f-1bb8ce8c7b3e" />
+<img width="399" height="702" alt="Screenshot 2025-12-26 164355" src="https://github.com/user-attachments/assets/b2415e41-fc60-425f-9010-6a416c1ea0a2" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 182225" src="https://github.com/user-attachments/assets/948ef9b6-c86e-4a84-a482-ef63e41bbe89" />
+<img width="432" height="776" alt="Screenshot 2025-12-26 164416" src="https://github.com/user-attachments/assets/afaeeca8-daba-4064-ae21-5110d5e0bb08" />
+
 
 
 
